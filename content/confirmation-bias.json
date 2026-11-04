@@ -1,0 +1,17 @@
+{
+  "slug": "confirmation-bias",
+  "title": "確認偏誤",
+  "englishTitle": "Confirmation Bias",
+  "category": "認知偏誤",
+  "summary": "當我們已經有了某個看法，往往更容易注意、搜尋和記住支持這個看法的資訊。",
+  "sections": [
+    {"heading": "心理學定義", "paragraphs": ["確認偏誤（Confirmation Bias）是指人在蒐集、理解或回想資訊時，傾向偏重符合自己既有信念的證據，而較少注意相反的資訊。這不是刻意說謊，而是一種可能發生在日常判斷中的認知傾向。"]},
+    {"heading": "形成原因", "paragraphs": ["面對大量資訊時，大腦需要快速篩選重點。熟悉的想法通常更容易被理解，也比較不需要重新調整立場；因此，我們可能無意間挑選能支持原本觀點的例子。"]},
+    {"heading": "生活案例", "paragraphs": ["假設你認為「早起的人工作效率比較高」，就特別注意到早起朋友完成很多事的貼文，卻忽略晚睡的人也可能有效率。看見的資訊越來越偏向同一邊，原本的想法便更難被挑戰。"]},
+    {"heading": "可能的影響", "paragraphs": ["確認偏誤可能讓我們過度相信自己的判斷，在選購商品、討論議題或理解他人行為時忽略其他解釋。它不表示每一次判斷都錯，而是提醒我們：資訊來源可能不夠全面。"]},
+    {"heading": "改善與應用", "paragraphs": ["做重要決定前，可以問自己：「如果我的想法是錯的，可能有哪些證據？」試著閱讀不同立場的可靠資料，並區分個人經驗與系統性證據。這些做法有助於讓判斷更完整。"]}
+  ],
+  "references": [
+    {"label": "Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. Review of General Psychology, 2(2), 175–220.", "url": "https://doi.org/10.1037/1089-2680.2.2.175"}
+  ]
+}

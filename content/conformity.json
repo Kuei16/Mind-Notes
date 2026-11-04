@@ -1,0 +1,17 @@
+{
+  "slug": "conformity",
+  "title": "從眾效應",
+  "englishTitle": "Conformity",
+  "category": "社會心理",
+  "summary": "當身邊多數人都採取某種行動或表達某種意見，我們有時也會調整自己的選擇。",
+  "sections": [
+    {"heading": "心理學定義", "paragraphs": ["從眾（Conformity）是指個人的判斷或行為受到群體影響，而往群體規範或多數意見靠近的現象。它可能是公開配合群體，也可能真的改變自己的看法。"]},
+    {"heading": "形成原因", "paragraphs": ["人有時希望被群體接納，避免與大家不同；也可能在不確定答案時，認為多數人的選擇是值得參考的線索。這兩種動機都可能讓我們受到群體影響，但程度會隨情境而改變。"]},
+    {"heading": "生活案例", "paragraphs": ["和朋友一起點餐時，原本想選清淡料理，但發現每個人都說某家辣味餐點最好吃，你便跟著點同樣的餐。這可能是因為相信大家的推薦，也可能只是想融入話題。"]},
+    {"heading": "可能的影響", "paragraphs": ["從眾可以幫助人快速學習社會規範、協調團體行動；但如果群體資訊有誤，也可能降低獨立思考的機會。是否有害，取決於情境和行為本身。"]},
+    {"heading": "改善與應用", "paragraphs": ["遇到需要自行負責的決定時，可以先寫下自己的理由，再聽取別人的看法。如果團體出現不同意見，鼓勵大家提出證據與疑問，通常比只追求一致更有幫助。"]}
+  ],
+  "references": [
+    {"label": "Asch, S. E. (1956). Studies of independence and conformity: I. A minority of one against a unanimous majority. Psychological Monographs: General and Applied, 70(9), 1–70.", "url": "https://doi.org/10.1037/h0093718"}
+  ]
+}

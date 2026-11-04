@@ -1,0 +1,17 @@
+{
+  "slug": "emotional-contagion",
+  "title": "情緒感染",
+  "englishTitle": "Emotional Contagion",
+  "category": "情緒心理",
+  "summary": "我們的情緒不只來自自己，也可能在互動中受到他人的表情、語氣和行為影響。",
+  "sections": [
+    {"heading": "心理學定義", "paragraphs": ["情緒感染（Emotional Contagion）描述人們在互動時，情緒可能彼此影響，讓一個人的感受逐漸朝他人的情緒靠近。這種影響可能透過表情、聲音、動作與社交情境發生。"]},
+    {"heading": "形成原因", "paragraphs": ["我們會觀察他人的表情與聲音線索，有時還會不自覺地模仿對方的表達。這些互動過程可能影響自己的情緒，但並非所有人或所有場合都會受到相同程度的影響。"]},
+    {"heading": "生活案例", "paragraphs": ["朋友興奮地分享好消息時，原本平靜的你也可能跟著露出笑容、感到開心；反過來，會議裡的緊張氣氛，也可能使參與者更容易感到壓力。"]},
+    {"heading": "可能的影響", "paragraphs": ["情緒感染有助於理解群體氣氛、產生連結，卻也可能讓壓力或焦慮在人際互動中擴散。它只是情緒互動的一種可能機制，不能用來推斷別人的心理狀態或疾病。"]},
+    {"heading": "改善與應用", "paragraphs": ["當你發現自己突然變得煩躁，可以先辨認這份情緒是否與周圍環境有關。適度休息、調整互動節奏，並以穩定、尊重的方式表達自己的感受，有助於維持良好的交流。"]}
+  ],
+  "references": [
+    {"label": "Hatfield, E., Cacioppo, J. T., & Rapson, R. L. (1994). Emotional Contagion. Cambridge University Press."}
+  ]
+}

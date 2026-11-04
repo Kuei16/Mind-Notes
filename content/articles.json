@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "confirmation-bias",
+    "title": "確認偏誤",
+    "englishTitle": "Confirmation Bias",
+    "category": "認知偏誤",
+    "summary": "為什麼我們總是更容易相信支持自己想法的資訊？一起認識思考中的選擇性注意。",
+    "readingTime": "約 3 分鐘"
+  },
+  {
+    "slug": "conformity",
+    "title": "從眾效應",
+    "englishTitle": "Conformity",
+    "category": "社會心理",
+    "summary": "當大家都做一樣的選擇，我們為什麼會忍不住想跟著做？",
+    "readingTime": "約 3 分鐘"
+  },
+  {
+    "slug": "emotional-contagion",
+    "title": "情緒感染",
+    "englishTitle": "Emotional Contagion",
+    "category": "情緒心理",
+    "summary": "一個人的心情，怎麼悄悄影響周遭的人？認識情緒在人際互動中的傳遞。",
+    "readingTime": "約 3 分鐘"
+  },
+  {
+    "slug": "halo-effect",
+    "title": "月暈效應",
+    "englishTitle": "Halo Effect",
+    "category": "人際關係",
+    "summary": "第一印象很好，就覺得對方其他方面也很優秀？了解印象如何影響評價。",
+    "readingTime": "約 3 分鐘"
+  }
+]
