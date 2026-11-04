@@ -49,7 +49,6 @@ mind-notes/
 ├── AGENTS.md
 ├── README.md
 ├── index.html
-├── article.html
 ├── css/style.css
 ├── js/main.js
 ├── js/article.js
